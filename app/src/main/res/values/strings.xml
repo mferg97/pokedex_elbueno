@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shiny_sprites">Shiny Sprites:</string>
+    <string name="info_default_pokename">Bulbasaur</string>
+    <string name="info_default_pokeNum">#001</string>
+    <string name="pokemon_basestat_sp_atk">Sp. Atk</string>
+    <string name="pokemon_basestat_hp">HP</string>
+    <string name="pokemon_basestat_attack">Attack</string>
+    <string name="pokemon_basestat_defense">Defense</string>
+    <string name="pokemon_basestat_sp_def">Sp. Def</string>
+    <string name="pokemon_basestat_speed">Speed</string>
+    <string name="pokemon_basestat_total">Total</string>
+    <string name="pokemon_basestat_defaultStat">45</string>
+    <string name="pokemon_about_height">Height</string>
+    <string name="pokemon_about_weight">Weight</string>
+    <string name="pokemon_about_abilities">Abilities</string>
+    <string name="pokemon_menu_settings">Settings</string>
+</resources>

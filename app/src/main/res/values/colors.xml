@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF3F3D</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="defaultWhite">#ffffff</color>
+    <color name="defaultBlack">#000000</color>
+
+    <!--Pokemon type colors-->
+    <color name="type_grass">#40be86</color>
+    <color name="type_fire">#ee4340</color>
+    <color name="type_water">#3771fa</color>
+    <color name="type_bug">#07634a</color>
+    <color name="type_dark">#171653</color>
+    <color name="type_dragon">#41e7e6</color>
+    <color name="type_electric">#FFc50d</color>
+    <color name="type_fairy">#ca48d2</color>
+    <color name="type_fighting">#ff7022</color>
+    <color name="type_flying">#94bfed</color>
+    <color name="type_ghost">#8666b6</color>
+    <color name="type_ground">#cc9f6a</color>
+    <color name="type_ice">#6eacff</color>
+    <color name="type_normal">#d1d1d1</color>
+    <color name="type_poison">#723dd7</color>
+    <color name="type_rock">#91472c</color>
+    <color name="type_psychic">#f64791</color>
+    <color name="type_steel">#65c1cb</color>
+
+    <color name="card_name_color">#ecedee</color>
+</resources>
